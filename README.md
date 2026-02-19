@@ -1,5 +1,5 @@
-## Hi PEOPLEEEE  no lose que pasara👋
-no lose que opinas
+## Bievenidos a Actividades de William Perez
+A continuacion encontraras ejercicios y notas del estudiante William Perez Con codigo 120261
 
 <!--
 **Wperezd/Wperezd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

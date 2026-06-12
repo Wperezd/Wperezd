@@ -1,5 +1,5 @@
 ## Bievenidos a Actividades de William Perez
-A continuacion encontraras ejercicios y notas del estudiante William Perez Con codigo 120261
+A continuacion encontraras pruebas y proyectos de Pagina web 
 
 <!--
 **Wperezd/Wperezd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

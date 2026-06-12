@@ -51,7 +51,7 @@ Microcontroller communication network using UART, I2C, and SPI protocols. Design
 `C++` `I2C` `SPI` `UART` `Embedded Systems`
 
 ---
-
+<!-- 
 ### 🤖 [Add your robotics/ROS project here]
 *Brief description of what it does, what problem it solves.*  
 `ROS` `Python` `C++`
@@ -61,7 +61,7 @@ Microcontroller communication network using UART, I2C, and SPI protocols. Design
 ## GitHub Stats
 
 ![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true) -->
 
 ---
 
